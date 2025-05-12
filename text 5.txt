@@ -1,0 +1,4 @@
+<h2>Contact Me</h2>
+<p>All communication is handled directly and securely via Telegram. For business inquiries, partnerships, or consultations, message me below:</p>
+<p><strong>Telegram:</strong> <a href="https://t.me/hvr_hong" target="_blank">@hvr_hong</a></p>
+<p><strong>Address:</strong> 1202 G Street, NW, Washington, DC 20005</p>
